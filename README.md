@@ -12,4 +12,5 @@ queries.sql has all the database queries required to find the following informat
 * List all employees in the Sales department, including their employee number, last name, first name, and department name.
 * List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 * In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
 A jupyter notebook is added to find the histogram of common salary range among employees and bar chart of average salary in different job titles. The images for plots are also added in the folder EmployeeSQL.
